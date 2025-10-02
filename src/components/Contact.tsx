@@ -24,7 +24,7 @@ export const Contact = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-2xl font-bold text-primary">(555) 123-BUSY</p>
+                <p className="text-2xl font-bold text-primary">(555) BUSY-BEE</p>
                 <p className="text-muted-foreground">Available Mon-Sat, 7am-6pm</p>
               </CardContent>
             </Card>

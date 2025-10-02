@@ -1,3 +1,3 @@
 # buzzy-clean-squad
 
-Project bootstrap.
+Read me for the Busy Bee cleaning site!
